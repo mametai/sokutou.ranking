@@ -30,7 +30,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Helvetica Neue","Segoe UI",Hi
 .content-wrapper ul.flex{display:flex;flex-wrap:wrap}
 .content-wrapper ul.flex li{margin-right:8px}
 .content-wrapper ul.flex li+li{margin-top:0}
-.sidebar{margin-top:20px;padding-top:15px;padding-bottom:30px;background-color:#fff;border-bottom:1px solid #dadee5}
+.sidebar{position: sticky;margin-top:20px;padding-top:15px;padding-bottom:30px;background-color:#fff;border-bottom:1px solid #dadee5}
 @media screen and (min-width: 1315px){.sidebar{margin-top:0;padding-top:30px;width:360px;margin-left:15px}}
 .sidebar #sb-rating{padding-left:20px;padding-right:20px;display:flex;align-items:center;padding-bottom:15px;border-bottom:1px dotted #ccc}
 .sidebar #sb-rating li:nth-child(1){width:40%;font-size:.9rem;font-weight:bold}
