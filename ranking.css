@@ -225,7 +225,7 @@ table#top-match-result .name ul li:nth-child(2){width:50%;font-size:.9rem}}
 .tab_group li.is-active{color:red}.tab_group li+li{margin:0 5px}
 .box26 {
     position: relative;
-    margin: 2em 0;
+    margin: 2em 20px;
     padding: 0.5em 1em;
     border: solid 3px #95ccff;
     border-radius: 8px;
@@ -234,7 +234,7 @@ table#top-match-result .name ul li:nth-child(2){width:50%;font-size:.9rem}}
     position: absolute;
     display: inline-block;
     top: -13px;
-    left: 100px;
+    left: 10px;
     padding: 0 9px;
     line-height: 1;
     font-size: 15px;
