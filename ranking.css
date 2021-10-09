@@ -234,7 +234,7 @@ table#top-match-result .name ul li:nth-child(2){width:50%;font-size:.9rem}}
     position: absolute;
     display: inline-block;
     top: -13px;
-    left: 10px;
+    left: 100px;
     padding: 0 9px;
     line-height: 1;
     font-size: 15px;
